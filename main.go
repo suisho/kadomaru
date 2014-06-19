@@ -1,11 +1,11 @@
 package main
 
 import (
-    _  "fmt"
-    "image"
-    _ "image/draw"
-    "image/png"
-    "os"
+  _  "fmt"
+  _ "image/draw"
+  "image"
+  "image/png"
+  "os"
 )
 
 func main(){
