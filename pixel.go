@@ -8,6 +8,6 @@ type RadPix{
   bottomRight : bool
 }
 
-func toRadPixMap{
+func toRadPixMap(a :map){
   
 }
